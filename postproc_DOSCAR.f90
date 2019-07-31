@@ -4,6 +4,7 @@
 ! --> To write lm and site projected dos lmSiteDos.dat
 !==================================================
 ! Author: SK, Date: 7Apr2014
+! email: sonukumar.physics@gmail.com
 !==================================================
 PROGRAM RW_DOSCAR
 
