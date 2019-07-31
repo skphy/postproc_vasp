@@ -1,0 +1,1 @@
+expand -t 8 postproc_DOSCAR.f90 > postproc_DOSCAR_.f90
