@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# SK, 4/2014
+# email: sonukumar.physics@gmail.com
+
 echo "++---------------------------++"
 echo "Total dos: "
 echo "++---------------------------++"
